@@ -5,23 +5,24 @@
 layout: home
 ---
 
-Welcome to the CDPS Knowledge Hub. The purpose of this website is to provide Welsh public sector staff access to:
+The CDPS Knowledge Hub exists to provide Welsh public sector staff access to:
 
-* Current digital transformation activities
-* Best and worst practice
-* Common service standards around digital transformation
+* common service standards around digital transformation
+* best practice advice
+* current digital transformation activities
 
-We are building this in public and we would like to encourage contributions from the community.
+This is a prototype. We're building it in the open, and we welcome contributions from the community.
 
 For starters, you can tell us:
 
-* What you think about the Knowledge Hub?
-* What you would like us to add next?
-* Any problems with the content?
+* what you think the Knowledge Hub should do
+* what content or topics you'd like to see included
+* about changes you'd like to suggest
 
-By [creating a new issue here](https://github.com/alixedi/knowledge-hub/issues/new).
+[Make a suggestion or comment](https://github.com/alixedi/knowledge-hub/issues/new).
 
-You can also help us fix some of these issues. We accept PRs from everyone. You do not need to know
-coding for a bunch of these issues. We are in the process of labelling them so that you can pick something that you can help with.
+[View the list of existing suggestions](https://github.com/alixedi/knowledge-hub/issues).
 
-You can see the [list of all the open issues here](https://github.com/alixedi/knowledge-hub/issues).
+We are using a third party service called GitHub to build this prototype. You will need to sign in to GitHub in order to make a suggestion.
+
+If you'd prefer, you can send suggestions by email to: info@digitalpublicservices.gov.wales
