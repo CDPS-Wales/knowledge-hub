@@ -56,6 +56,7 @@ plugins:
 # just-the-docs
 logo: "/assets/images/logo.png"
 # Footer "Edit this page on GitHub" link text
+footer_content: true
 gh_edit_link: true # show or hide edit this page link
 gh_edit_link_text: "Edit this page on GitHub."
 gh_edit_repository: "https://github.com/alixedi/cdps" # the github URL for your repo
