@@ -62,11 +62,23 @@ layout: table_wrappers
           {% endif %}
         {% endfor %}
       {% else %}
-        {% include nav.html pages=site.html_pages %}
+        {% assign pages = site.html_pages | where: "lang", page.lang %}
+        {% include nav.html pages=pages %}
       {% endif %}
     </nav>
     <footer class="site-footer">
-      This site uses <a href="https://github.com/pmarsceill/just-the-docs">Just the Docs</a>, a documentation theme for Jekyll.
+      {% for lang in site.langs %}
+        {% if lang == page.lang %}
+          {{ lang | upcase }}
+        {% else %}
+          {% assign pages = site.pages | where: "ref", page.ref | where_exp: "item", "item.lang != page.lang" %}
+          {% if pages[0].url %}
+            <a href="{{ pages[0].url | absolute_url }}">{{ lang | upcase }}</a>
+          {% else %}
+            {{ lang | upcase }}
+          {% endif %}
+        {% endif %}
+      {% endfor %}
     </footer>
   </div>
   <div class="main" id="top">
