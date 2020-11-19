@@ -1,10 +1,12 @@
 ---
 layout: page
 title: About
-permalink: /about/
+# permalink: /about/
+lang: en
+ref: about
 ---
 
-![](/assets/images/banner.jpeg)
+![](../assets/images/banner.jpeg)
 
 ‘Digital change isn’t just about technology, it’s about a change of culture. It’s about being open. It’s about using data to solve problems. Instead of designing services from the viewpoint of what Welsh Government departments think a citizen needs, a digital approach involves designing services that meet the needs of the end user.’ This came from the Systems Reboot report on Transforming public services through better use of digital. The report has a number of recommendations to ensure public services in Wales can harness the power of the digital developments we see around us every day and improve outcomes for the people of Wales.
 

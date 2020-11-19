@@ -1,7 +1,9 @@
 ---
 layout: page
 title: Service Standard
-permalink: /service-standard/
+# permalink: /service-standard/
+lang: en
+ref: service-standard
 ---
 
 
