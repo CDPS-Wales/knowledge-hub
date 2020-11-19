@@ -1,1 +1,2 @@
-./cy/index.markdown
+<!-- Redirect to mysite subdirectory -->
+<meta HTTP-EQUIV="REFRESH" content="0; url=cy/index.html">
