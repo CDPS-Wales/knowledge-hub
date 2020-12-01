@@ -146,3 +146,4 @@ As they develop a service, **teams should communicate in the open** about the de
 *   [A blog is your brain, over time, on the internet](https://gilest.org/2015/blog-brain/), by Giles Turnbull
 *   [Blog posts](https://news.alpha.ca.gov) from the team working on alpha.gov.ca in California
 *   [How coding in the open can make you release faster](https://www.annashipman.co.uk/jfdi/open-code-helps-you-release-faster.html), by Anna Shipman
+*   [Ann's blob](https://ann.co.uk/work-open), by Ann
