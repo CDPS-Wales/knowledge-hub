@@ -1,6 +1,6 @@
 # Knowledge Hub
 
-This repository contains everything that is the [CDPS Knowledge Hub](https://alixedi.github.io/knowledge-hub/).
+This repository contains everything that is the [CDPS Knowledge Hub](https://cdps-wales.github.io/knowledge-hub/).
 
 We are building this in public and we would like to encourage contributions from the community.
 
