@@ -8,6 +8,9 @@ ref: welsh
 
 # Suggestions for development of bilingualism in web2.0
 
+
+*Extracted from [Implications of web2.0 for bilingualism on websites – towards best practice](https://www.webarchive.org.uk/wayback/archive/20120328011316/http://www.byig-wlb.org.uk/English/publications/Pages/PublicationItem.aspx?puburl=/English%2fpublications%2fPublications%2f20090812+AD+S+Implications+of+web2.0+for+bilingual+websites+f1.doc), an independent research report commissioned by the Welsh Language Board.*
+
 The suggestions presented here are high level, focussing on general approaches and issues, rather than the detail of a specific web2.0 application or service.
 
 Several general principles underpin them:
