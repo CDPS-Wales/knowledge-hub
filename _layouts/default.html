@@ -67,18 +67,6 @@ layout: table_wrappers
       {% endif %}
     </nav>
     <footer class="site-footer">
-      {% for lang in site.langs %}
-        {% if lang == page.lang %}
-          {{ lang | upcase }}
-        {% else %}
-          {% assign pages = site.pages | where: "ref", page.ref | where_exp: "item", "item.lang != page.lang" %}
-          {% if pages[0].url %}
-            <a href="{{ pages[0].url | absolute_url }}">{{ lang | upcase }}</a>
-          {% else %}
-            {{ lang | upcase }}
-          {% endif %}
-        {% endif %}
-      {% endfor %}
     </footer>
   </div>
   <div class="main" id="top">
